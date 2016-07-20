@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InAppBilling</string>
+    <string name="action_settings">Settings</string>
+    <string name="base64EncodeRSA">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAntHENBsqTlHRc0NnBSjCI906cPX5gv7WOEj/0ZtEWzKItPXX3vgVnbW4n/BEeGAXdc9C5LfGlU5pAztm6T2tAR3xxPaP1OpXHPDGocMuocKVDtm0jOZHLYju2Jy42Z9fUOnUe5HtLaEMpSvmUBE/fXCXiEZWOMkmb0WHsjTBgyb+Rt/rvsSsRbu703djtItmFZTlCErt7sNpvNON6zR+dkiz/Tjw83SrdW1CWv6pdgVgWxwU7u8IowtuKl9LdrIku5T8V2RdF+7yV1sklkDbCsFxkQ88aGZANfNUu9/duyTub6O67y/pkDw2J8Jn8jXT6FcclZksRYr7qjjg+fpWEQIDAQAB</string>
+</resources>
